@@ -5,3 +5,5 @@
 2. "FastFoodApp" 
    https://itunes.apple.com/us/app/fastfoodapp/id821214253?ls=1&mt=8
 3. "TheiPhoneBuddy"
+
+Zipped versions of release and simulator versions available for download above. 
